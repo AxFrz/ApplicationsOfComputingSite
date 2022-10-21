@@ -1,0 +1,52 @@
+* {
+    font-family: "Georgia"
+}
+
+body {
+    font-size: 150%;
+}
+
+.Heads {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 0px;
+}
+
+h1 {
+    background-color: #0E67B4;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+#Header {
+    padding: 2%;
+    margin-bottom: 0px;
+    text-decoration: underline;
+}
+
+li {
+    margin: 1%;
+    display: inline-block;
+    
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: darkgray;
+}
+
+ul {
+    background-color: lightgray;
+    padding: 1%;
+}
+.Paragraphs {
+    margin-left: 2%;
+}
